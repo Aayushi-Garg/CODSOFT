@@ -110,7 +110,7 @@
               </ul>
 
               <div class="work__links">
-                <a href="https://github.com/Aayushi-Garg/CODSOFT/blob/main/To-do list" title="View Source Code" target="_blank">
+                <a href="https://github.com/Aayushi-Garg/CODSOFT/blob/main/to%20do%20list" title="View Source Code" target="_blank">
                   <img src="../github.png" class="work__code" title="View Source Code" alt="GitHub">
                 </a>
               </div>
